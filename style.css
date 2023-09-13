@@ -1,0 +1,113 @@
+.navs {
+    justify-content: end;
+    
+}
+
+.imgs {
+    background-image: url("https://preview.colorlib.com/theme/courses/assets/img/hero/h1_hero.png");
+    max-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    
+}
+
+.texts {
+    margin-top: 30%;
+    color: white;
+    font-weight:700;
+    font-size: 55px;
+    line-height: 1.3;
+    margin-bottom: 22px;
+    letter-spacing: 2px;
+}
+.button {
+    background-color: #FF9F67;
+    width: 180px;
+    color: white;
+    height: 50px;
+    font-weight: 600;
+}
+
+.button2 {
+    background-color: white;
+    width: 180px;
+    color: #FF9F67;
+    height: 60px;
+    font-weight: 600;
+    border-color:#FF9F67 ;
+    text-align: center;
+}
+.button2:hover {
+    background-color:#FF9F67;
+    color: white;
+}
+
+.back {
+    background-color: blue;
+}
+
+.links {
+    text-decoration: none;
+    color: white;
+    margin-top: 20px;
+}
+.links:hover {
+    text-decoration: underline;
+}
+
+.margins {
+    padding-top: 60px;
+    background-color: #2a519d;
+    margin-top: 60px;
+}
+.margins2 {
+    background-color: #2a519d;
+    color: white;
+}
+
+.grad {
+    background-image: linear-gradient(180deg, #ac40ad, #597ec7);
+  }
+
+  .btn1 {
+    color: white;
+    background-color: #FF9F67;
+    
+  }
+  .btn2 {
+    color: white;
+    border-color: white;
+    background-color: transparent;
+  }
+
+.btn1:hover {
+    background-color:#ac40ad ; 
+}
+.btn2:hover {
+    background-color:#FF9F67 ; 
+}
+.btn3 {width: 16rem; }
+.btn3:hover {
+    background-color:#FF9F67 ;
+}
+
+
+.containerqq {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .centered:hover {
+    text-decoration: underline;
+    cursor: pointer;
+  }
